@@ -1,7 +1,3 @@
-bikedive run
-sun
-power
-six
 one
 swim
 lastly
